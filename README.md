@@ -1,2 +1,2 @@
 # codsoft
-codsoft internshi
+codsoft internship
